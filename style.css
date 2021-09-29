@@ -1,0 +1,75 @@
+*{margin: 0;padding: 0;}
+.ban1{width: 100%;height: 450px;background-color: red;position: absolute;}
+.ban2{position: relative;width: 55%;height: 390px;margin-left: 50px;}
+.tex1{font-size: 65px;color: white;padding-top: 40px;font-weight: 100;}
+.tex2{font-size: 65px;color: white;font-weight: 100;}
+.tex3{font-size: 35px;color: white;}
+.ban21{width: 40%;height: 40px;background-color: rgb(228, 91, 67);float: left;margin-top: 20px;border-radius: 10px;}
+.ban22{width: 40%;height: 40px;background-color: rgb(0, 0, 0);float: right;margin-right: 70px;margin-top: 20px;border-radius: 10px;border: 2px solid tomato;}
+.ban21:hover{background-color: red;}
+.ban22:hover{background-color: thistle;}
+.a1{text-decoration: none;color: whitesmoke;display: block;text-align: center;font-size: 20px;margin-top: 6px;}
+.a2{text-decoration: none;color: tomato;display: block;text-align: center;font-size: 20px;margin-top: 6px;}
+.main1{width: 100%;height: 200px;background-color: rgb(177, 192, 207);margin-top:60px ;}
+.main13{text-align: center;font-size: 33px;font-weight: 100;padding-top: 25px;}
+.main11{width: 17%;height: 80px;float: left;margin-left: 10px;margin-right: 30px;margin-top: 20px;}
+.main12{width: 17%;height: 80px;float: right;margin-right: 10px;margin-top: 20px;}
+.main111{font-size: 25px;color: grey;font-family: Verdana;margin-left: 40px;}
+.main112{font-size: 25px;color: grey;font-family: Arial;}
+.main113{font-size: 30px;color: grey;font-family: Agency FB;margin-left: 40px;}
+.main114{font-size: 30px;color: grey;font-family: calibri;}
+.main115{font-size: 30px;color: grey;font-family: elephant;margin-left: 20px;}
+.main116{font-size: 35px;color: grey;font-family: Algerian;margin-left: 40px;}
+.main117{font-size: 30px;color: grey;font-family: constantia;margin-left: 40px;}
+.main118{font-size: 30px;color: grey;font-family: italic;}
+.main2{width: 100%;height: 750px;}
+.main21{text-align: center;font-weight: 100;font-size: 50px;padding-top: 50px;font-family: 'Times New Roman', Times, serif}
+.main22{font-size: 1.62em;margin-left: 4%;margin-right: 4%;text-align: center;margin-top: 20px;font-weight: 200;}
+.main23{width: 30%;margin: auto;background-color:tomato;height: 40px;margin-top: 30px;border-radius: 10px;}
+.main23:hover{background-color:rgb(252, 70, 38);}
+.a3{color: white;text-decoration: none;font-size: 20px;text-align: center;display: block;padding-top: 6px;}
+.main24{margin-top: 50px;text-align: center;font-size: 35px;font-weight: 200;}
+.main25{text-align: center;font-size: 25px;margin-top: 15px;font-family:calibri ;}
+.box1{width: 32%;height: 260px;float: left;margin-left: 10px;margin-top: 20px;}
+.box11{width: 35%;height: 250px;float: left;}
+.box12{width: 63%;height: 250px;float: right;}
+.w1{display: block;;text-decoration: none;top: 10%;text-align: center;color:rgb(243, 108, 84);font-size: 21px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.w1:hover{color: rgb(233, 56, 25);}
+.main3{width: 100%;height: 180px;}
+.main31{width: 25%;height: 150px;float: left;margin-right: 1%;margin-top: 25px;}
+.main32{width: 48%;height: 150px;float: right;margin-top: 25px;}
+.e1{text-decoration: none;display: block;font-size: 20px;color: tomato;}
+.main4{width: 100%;height: 450px;background-color: #293a4a;}
+.main41{width: 23%;height: 250px;float: left;margin-top: 30px;margin-left: 18px;border: 1px solid blueviolet;border-radius: 10px;}
+.img411{margin-top: 15px;}
+.main5{width: 100%;height: 570px;}
+.main51{width: 31%;height: 240px;float: left;margin-left: 20px;margin-top: 25px;}
+.main52{width: 31%;height: 240px;float: right;margin-top: 25px;margin-right: 20px;}
+.main511{width: 40%;height: 100px;margin-left:120px;}
+.main53{width: 30%;height: 40px;background-color: rgb(245, 103, 51);margin-top: 300px;margin-left: 35%;border-radius: 10px;}
+.main53:hover{background-color: orangered;}
+.main6{background: linear-gradient(
+    45deg
+    , #83B655 0%, #179BD7 100%);
+height: 240px;width: 100%;position: relative;}
+.main61{padding-top: 70px;text-align: center;color: white;}
+.main62{width: 30%;height: 50px;border-radius: 10px;margin: auto;margin-top: 20px;border: 1px solid white;}
+.main621{display: block;text-align: center;text-decoration: none;color: white;font-size: 25px;padding-top: 10px;}
+.main62:hover{background-color: rgba(255,255,255,0.5);}
+.main7{width: 100%;height: 250px;}
+.main71{width: 47%;height: 150px;margin-top: 50px;float: left;margin-left: 2%;}
+.main711{width: 25%;height: 150px;float: left;}
+.main712{width: 72%;height: 150px;float: right;}
+.main7121{display: block;text-decoration: none;color: tomato;font-size: 22px;padding-top: 20px;font-weight: 800;}
+.main7121:hover{color:maroon;}
+.main8{background-color: #293a4a;width: 100%;height: 400px;}
+.main81{width: 16%;height: 260px;float: left;margin-left: 5px;margin-top: 20px;color:grey;}
+.main81 ul li{cursor: pointer;margin-top: 5px;font-size: 18px;list-style: none;}
+.main81 ul li:hover{color: rgb(165, 180, 196);}
+.main82{width: 20%;height: 90px;float: left;margin-top: 15px;}
+.main83{width: 42%;height: 90px;float: left;margin-top: 15px;margin-left: 10px;}
+.main84{width: 36%;height: 90px;float: right;margin-top: 15px;margin-right: 5px;}
+.main821{display: block;font-size: 45px;text-decoration: none;font-family: Elephant;font-style: italic;margin-left: 20px;margin-top: 10px;color:lightslategray}
+.main831{display: block;font-size: 15px;text-decoration: none;text-align: right;color: lightslategray;margin-top: 3px;}
+.main831:hover{color: lightsteelblue;}
+.main841{height: 60px;width: 18%;margin-right: 2px;float: left;margin-top: 15px;margin-left: 2px;cursor: pointer;}
